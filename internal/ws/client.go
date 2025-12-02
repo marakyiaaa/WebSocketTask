@@ -9,8 +9,8 @@ import (
 
 	"github.com/gofiber/contrib/websocket"
 
-	"github.com/forKate/ws-server/internal/kafka"
-	"github.com/forKate/ws-server/internal/message"
+	"github.com/marakyiaaa/WebSocketTask/internal/kafka"
+	"github.com/marakyiaaa/WebSocketTask/internal/message"
 )
 
 const (

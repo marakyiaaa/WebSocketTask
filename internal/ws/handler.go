@@ -8,8 +8,8 @@ import (
 	"github.com/gofiber/contrib/websocket"
 	"github.com/gofiber/fiber/v2"
 
-	"github.com/forKate/ws-server/internal/auth"
-	"github.com/forKate/ws-server/internal/kafka"
+	"github.com/marakyiaaa/WebSocketTask/internal/auth"
+	"github.com/marakyiaaa/WebSocketTask/internal/kafka"
 )
 
 const (

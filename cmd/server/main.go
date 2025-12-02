@@ -9,10 +9,10 @@ import (
 
 	"github.com/gofiber/fiber/v2"
 
-	"github.com/forKate/ws-server/internal/auth"
-	"github.com/forKate/ws-server/internal/config"
-	"github.com/forKate/ws-server/internal/kafka"
-	"github.com/forKate/ws-server/internal/ws"
+	"github.com/marakyiaaa/WebSocketTask/internal/auth"
+	"github.com/marakyiaaa/WebSocketTask/internal/config"
+	"github.com/marakyiaaa/WebSocketTask/internal/kafka"
+	"github.com/marakyiaaa/WebSocketTask/internal/ws"
 )
 
 func main() {

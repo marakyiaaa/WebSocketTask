@@ -9,7 +9,7 @@ import (
 
 	"github.com/IBM/sarama"
 
-	"github.com/forKate/ws-server/internal/message"
+	"github.com/marakyiaaa/WebSocketTask/internal/message"
 )
 
 type Dispatcher interface {

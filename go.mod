@@ -1,4 +1,4 @@
-module github.com/forKate/ws-server
+module github.com/marakyiaaa/WebSocketTask
 
 go 1.22
 
